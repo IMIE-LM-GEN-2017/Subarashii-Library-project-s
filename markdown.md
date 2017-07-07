@@ -1,6 +1,6 @@
 # **Subarashii Library project's**
 
-#Besoin du client:
+**Besoin du client**
 -Le client veut un site de référence sur les animés japonais.
 -il veut toutes les informations sur l'animé recherché (crtiques,synopsis,notes,images,lien vers plateforme vod)
 -le client veut pouvoir recherché les animés avec des filtres :
@@ -12,13 +12,13 @@
 -le client veut un site simple , ergonomique , sobre et intuitif.
 
 
-#Limitations et problèmes liés au besoin du client:
+**Limitations et problèmes liés au besoin du client:**
 -Contenu régulièrement mis à jour.
 -gérer une grande quantité de page ( environ 1000 animés ).
 gérer les liens morts signalés
 
 
-#Solutions techniques pour y remédier:
+**Solutions techniques pour y remédier:**
 
 
 -Décrire les fonctionnalités de l'app/site/..
