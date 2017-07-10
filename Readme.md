@@ -21,7 +21,8 @@
 **Solutions techniques pour y remédier:**
 - Décrire les fonctionnalités de l'app/site/..
 - Site de référence d'animé ( lien vers plateforme VOD ).
-- Faire un choix technologique et expliquer pourquoi:
+
+**Faire un choix technologique et expliquer pourquoi:**
 - (Php) / html / CSS
 - Base de donné. 
 
